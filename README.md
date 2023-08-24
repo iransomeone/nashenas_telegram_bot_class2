@@ -2,12 +2,12 @@
 ## intallation
 To install this bot:
 
-... bash
+...bash
 pip install -r requirements.txt
 ...
 
 ## Run
 To run this bot:
-... bash
+...bash
 python ./src/run.py
 ...
